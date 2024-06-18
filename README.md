@@ -1,6 +1,6 @@
 - Hi, I’m @Andysimps0n
 
-- I'm a freashman in Korea and I'm learning ML 
+- I'm a freashman in Korea
 
 - I know Python, JS, CSS, and HTML
 
